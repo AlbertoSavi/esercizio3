@@ -1,0 +1,81 @@
+html {
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+
+.logo {
+    text-align: center;
+   
+}
+
+.giallo{
+    border-color: yellow;
+}
+
+.centrale{
+    width: 26vw ;
+    margin: 0 auto;
+}
+
+.style {
+    color: darkslategrey;
+    text-align: center;
+    background-color: rgb(255, 255, 240);
+    font-weight: bold;
+}
+
+.centro{
+    color: rgb(26, 41, 41);
+    text-align:center ;
+    font: bolder;
+
+}
+
+.left{
+    color: rgb(26, 41, 41);
+    text-align:left ;
+    
+}
+
+.img{
+    text-align: center;
+    color:  rgb(172, 183, 194);
+}
+
+.orange{
+    color: orangered;
+    :link, :visited {
+        color: rgb(17, 121, 134)
+    }
+}
+
+.centrato{
+    width: 26vw ;
+    margin: 0 auto;
+    
+    
+}
+
+hr{
+    border-color: rgb(124, 202, 255);
+    border-width: 2px;
+}
+
+.lista{
+    color: rgb(38, 53, 53);
+}
+
+
+.fine{
+    color: rgb(26, 41, 41);
+}
+
+.f{
+    width: 26vw ;
+    margin: 0 auto;
+    text-align: left;
+    color: rgb(30, 32, 32);
+    :link, :visited {
+        color: rgb(104, 114, 116)
+    }
+}
